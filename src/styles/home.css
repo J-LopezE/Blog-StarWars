@@ -1,0 +1,15 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-image: url("https://pixabay.com/es/photos/estrellas-cielo-noche-1837306/");
+    background-size: "cover";
+    background-position: "center";
+    display: "flex";
+   justify-content: "center";
+    align-items: "center";
+    margin: 0;
+    padding: 0;
+
+  }
